@@ -1,22 +1,22 @@
-# Hi 👋, I'm Evans Tanui
+# Hi , I'm Evans Tanui
 
-🎓 MSc in Big Data Analytics & AI | 🌍 Data & AI Enthusiast  
-📍 Based in France | ✉️ evanstanu@gmail.com  
+ MSc in Big Data Analytics & AI |  Data & AI Enthusiast  
+ Based in France |  evanstanu@gmail.com  
 
 ---
 
-## 🔍 About Me
+##  About Me
 I am passionate about leveraging **Big Data, AI, and advanced analytics** to solve real-world challenges in sustainability, marketing, and digital transformation. My focus is on building scalable data solutions and predictive models that drive strategic decision-making.
 
 ---
 
-## 📚 Education
+##  Education
 - **MSc Big Data Analytics & AI** – IESEG School of Management (2024–2026)
 - **BSc Business Information Technology** – Mount Kenya University
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 - **IESEG School of Management** – *Business Analyst Apprentice (Jan 2025 – May 2025)*  
   - Built scalable data extraction workflows using APIs for hospitality reviews.
   - Developed an NLP pipeline in Python to classify sustainability-related content using a custom SDG/ESG dictionary.
@@ -32,7 +32,7 @@ I am passionate about leveraging **Big Data, AI, and advanced analytics** to sol
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 ### Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -65,27 +65,27 @@ I am passionate about leveraging **Big Data, AI, and advanced analytics** to sol
 
 ---
 
-## 🧾 Certifications
+##  Certifications
 - **AWS Certified Cloud Practitioner**
 - **Tableau Desktop Specialist**
 - **Microsoft Certified: Azure Fundamentals**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 - [**Financial Dashboard**](https://github.com/EvansTanui/Financial-Dashboard) – Python-based dashboard for financial analytics.
 - [**Decathlon Marketing Dashboard**](#) – Interactive Tableau dashboard for campaign analysis.
 - [**Recommender System**](#) – Collaborative filtering model for personalized recommendations.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvansTanui&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansTanui&layout=compact&theme=dark)
 
 ---
 
-## 🎯 Future Goals
+##  Future Goals
 - Advance expertise in **AI-driven ESG Risk Analytics**.
 - Build scalable **Climate Data Solutions** for agribusiness and health supply chains.
 - Contribute to **open-source projects** in Big Data and AI.
