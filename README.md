@@ -79,10 +79,6 @@ I am passionate about leveraging **Big Data, AI, and advanced analytics** to sol
 
 ---
 
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EvansTanui&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EvansTanui&layout=compact&theme=dark)
-
 ---
 
 ##  Future Goals
@@ -92,7 +88,7 @@ I am passionate about leveraging **Big Data, AI, and advanced analytics** to sol
 
 ---
 
-## 📬 Get In Touch
+##  Get In Touch
 I'm open to discussions and collaborations on **data science, AI, and sustainability analytics**.  
-- ✉️ Email: evanstanu@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/evans-tanui)  
+-  Email: evanstanu@gmail.com  
+-  [LinkedIn](https://linkedin.com/in/evans-tanui)  
