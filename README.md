@@ -11,7 +11,7 @@ I am passionate about leveraging **Big Data, AI, and advanced analytics** to sol
 ---
 
 ##  Education
-- **MSc Big Data Analytics & AI** – IESEG School of Management (2024–2026)
+- **MSc Big Data Analytics & AI** – IESEG School of Management - Catholic University of Lille (2024–2026)
 - **BSc Business Information Technology** – Mount Kenya University
 
 ---
