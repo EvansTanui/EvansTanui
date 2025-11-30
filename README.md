@@ -1,6 +1,6 @@
 # Hi , I'm Evans Tanui
 
- MSc in Big Data Analytics & AI |  Data & AI Enthusiast  
+ MSc in Big Data Analytics & AI |  Data & AI  
  Based in France |  evanstanu@gmail.com  
 
 ---
